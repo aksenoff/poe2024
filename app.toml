@@ -1,0 +1,14 @@
+[server]
+host = '0.0.0.0'
+port = 8080
+
+[s3]
+bucket = ''
+
+[redis]
+host = ''
+port = 6379
+password = ''
+
+[ydb]
+database = ''
